@@ -122,7 +122,7 @@
 </div>
 
 <td align="center">
-  <img src="./942035114-2064762205.suf.jpg" width="100" style="border-radius: 10px; margin-bottom: 5px;" />
+  <img src="./942035114-2064762205.suf.jpg" width="100" style="border-radius: 80px; margin-bottom: 40px;" />
   <br/>
   <a href="./942035114-2064762205.suf.jpg">🐈 <b>撸猫</b></a>
   <br/>
