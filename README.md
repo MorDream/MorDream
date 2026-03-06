@@ -1,23 +1,34 @@
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/System-Authorized-00E5FF?style=flat-square&logo=ghost" />
-    <img src="https://komarev.com/ghpvc/?username=MorDream&label=ACCESS%20LOGS&color=00E5FF&style=flat-square" />
-    <img src="https://img.shields.io/badge/Location-Shanghai-blue?style=flat-square&logo=googlemaps" />
+  <img src="https://capsule-render.vercel.app/render?type=glass&color=auto&height=200&section=header&text=MorDream%20System&fontSize=70&animation=twinkling&fontColor=ffffff" width="100%" />
+
+  <p align="center">
+    <b>机器人算法 | 强化学习 | 深度学习 | 硬件极客</b>
   </p>
 </div>
 
 ---
 
+## 🐍 活跃度矩阵 (Contribution Snake)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MorDream/MorDream/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br />
+
 ## 🛰 个人历程 (The Journey)
 <div align="center">
   <table border="0" width="100%">
-    <tr style="background: rgba(255,255,255,0.05);">
-      <td width="30%" align="center"><b>2025 - Present</b></td>
-      <td><b>上海机器人产业技术研究院 (SRIRI)</b><br/>强化学习算法实习生 · 四足机器人运动控制优化 (Unitree Go2)</td>
+    <tr>
+      <td width="20%" align="center"><b>2025 - 至今</b></td>
+      <td><b>上海机器人产业技术研究院 (SRIRI)</b><br/>强化学习实习生 · 四足机器人 Go2 运动控制优化</td>
     </tr>
-    <tr style="background: rgba(255,255,255,0.05);">
-      <td width="30%" align="center"><b>2022 - 2026</b></td>
-      <td><b>华东理工大学 (ECUST)</b><br/>智能科学与技术 · 探索 AI 与硬件的边界</td>
+    <tr>
+      <td width="20%" align="center"><b>2024 - 2025</b></td>
+      <td><b>步兵机器人自瞄系统</b><br/>基于 ROS 与 OpenCV 的视觉感知架构开发</td>
+    </tr>
+    <tr>
+      <td width="20%" align="center"><b>2022 - 2026</b></td>
+      <td><b>华东理工大学 (ECUST)</b><br/>智能科学与技术 · AI 算法与硬件边界探索</td>
     </tr>
   </table>
 </div>
@@ -25,56 +36,36 @@
 <br />
 
 ## 🛠 技术矩阵 (Tech Stack)
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 深度学习与感知</h3>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/PaddlePaddle-00BAFF?style=for-the-badge&logo=baidu&logoColor=white" />
-      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=target&logoColor=black" />
-      <br/>
-      <h3>🤖 机器人与仿真</h3>
-      <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-      <img src="https://img.shields.io/badge/Isaac%20Gym-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/badge/MuJoCo-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 NAS 与网络架构</h3>
-      <img src="https://img.shields.io/badge/Synology-B71C1C?style=for-the-badge&logo=synology&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Home%20Lab-424242?style=for-the-badge&logo=linux&logoColor=white" />
-      <br/>
-      <h3>💻 编程语言</h3>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## 🎨 & 🌟 生活灵感 (Life & Interests)
-
-<div align="left">
-  <ul>
-    <li>📸 <b>摄影</b>: 喜欢捕捉城市风光与人物美感。</li>
-    <li>🚴 <b>骑行</b>: 热衷于长途骑行，享受在风中思考与欣赏风景的过程。</li>
-    <li>🎵 <b>音乐</b>: 杂食系听众，代码伴侣，偶尔研究音频处理。</li>
-    <li>🏗️ <b>ITX 装机</b>: 追求极致空间利用率的硬件极客。</li>
-    <li>🖥️ <b>便携硬件</b>: 喜欢折腾驱动板、便携屏与各类嵌入式设备。</li>
-  </ul>
-</div>
-
-<br />
-
-## 📈 活跃度 (Contributions)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MorDream&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
-
 <div align="center">
-  <p><i>"Stay hungry, stay foolish, and keep training the weights."</i></p>
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20YOLO%20%7C%20UIE-00E5FF?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-ROS2%20%7C%20IsaacGym-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Infrastructure-NAS%20%7C%20Docker%20%7C%20Linux-B71C1C?style=for-the-badge&logo=synology&logoColor=white" />
+  <img src="https://img.shields.io/badge/Languages-C++%20%7C%20Python-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
+
+<br />
+
+## 🎨 生活灵感 (Life & Interests)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">📸 <b>摄影</b><br/><small>捕捉工业纹理</small></td>
+      <td width="30"></td>
+      <td align="center">🚴 <b>骑行</b><br/><small>破风与思考</small></td>
+      <td width="30"></td>
+      <td align="center">🎵 <b>音乐</b><br/><small>逻辑的共鸣</small></td>
+      <td width="30"></td>
+      <td align="center">🏗️ <b>ITX</b><br/><small>空间美学</small></td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+## 📊 实时数据 (System Metrics)
+<div align="center">
+  <img src="https://metrics.lecoq.io/MorDream?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FShanghai" width="100%" />
+</div>
+
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/utils/divider.svg?type=waves&color=00E5FF&height=50" width="100%" />
