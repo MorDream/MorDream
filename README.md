@@ -7,8 +7,7 @@
     <b>机器人控制 | 强化学习 | 计算机视觉</b>
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MorDream&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorDream&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MorDream&theme=tokyonight&hide_border=true" />
 </div>
 
 <hr />
@@ -20,16 +19,8 @@
   <br />
   <table>
     <tr>
-      <td><b>2025 - 至今</b></td>
-      <td><b>上海机器人产业技术研究院 (SRIRI)</b> - 强化学习算法实习生，专注于四足机器人运动控制。</td>
-    </tr>
-    <tr>
-      <td><b>2024 - 2025</b></td>
-      <td><b>自瞄系统开发</b> - 基于 ROS 与 OpenCV 开发步兵机器人视觉感知系统。</td>
-    </tr>
-    <tr>
       <td><b>2022 - 2026</b></td>
-      <td><b>华东理工大学 (ECUST)</b> - 智能科学与技术本科，主修 AI 与机器人相关课程。</td>
+      <td><b>华东理工大学 (ECUST)</b> - 人工智能本科，主修 AI 与机器人相关课程。</td>
     </tr>
   </table>
 </details>
@@ -37,6 +28,23 @@
 <br />
 
 ## 🛠 技术栈 (Tech Stack)
+### 🧠 深度学习与 AI 算法
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PaddlePaddle-00BAFF?style=for-the-badge&logo=baidu&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIE/NLP-4B0082?style=for-the-badge&logo=probot&logoColor=white" />
+</p>
+
+### 🌐 NAS 与家庭网络
+<p>
+  <img src="https://img.shields.io/badge/NAS-Synology-B71C1C?style=for-the-badge&logo=synology&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-Configuration-424242?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 
 ### 🤖 机器人与算法
 <p>
@@ -88,14 +96,12 @@
 ## 📈 活跃度 (Contributions)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的Github用户名&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MorDream&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <hr />
 
 <div align="center">
   <p>感谢访问！期待与你交流技术 ✨</p>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
