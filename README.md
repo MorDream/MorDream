@@ -122,9 +122,12 @@
 </div>
 
 <td align="center">
-  <a href="./942035114-2064762205.suf.jpg">
-  🐈 <b>撸猫</b><br/>
-  <img src="https://img.shields.io/badge/Status-Purring-ff69b4?style=flat-square" /><br/>
+  <img src="./942035114-2064762205.suf.jpg" width="100" style="border-radius: 10px; margin-bottom: 5px;" />
+  <br/>
+  <a href="./942035114-2064762205.suf.jpg">🐈 <b>撸猫</b></a>
+  <br/>
+  <img src="https://img.shields.io/badge/Status-Purring-ff69b4?style=flat-square" />
+  <br/>
   <img src="https://img.shields.io/badge/Energy-100%25-brightgreen?style=plastic" />
 </td>
 
