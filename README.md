@@ -7,8 +7,8 @@
     <b>机器人控制 | 强化学习 | 计算机视觉</b>
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=你的Github用户名&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的Github用户名&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MorDream&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorDream&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 
 <hr />
