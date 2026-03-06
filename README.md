@@ -91,7 +91,6 @@
 
 ## 🎨 生活灵感 (Life & Interests)
 
-## 🎨 生活灵感 (Life & Interests)
 
 <div align="center">
   <table border="0">
