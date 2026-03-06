@@ -33,6 +33,15 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
 
+## 📈 活跃度 (Contributions)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MorDream&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+</div>
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
   社区贡献
