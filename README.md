@@ -24,7 +24,7 @@
 
 <div align="center">
   <!-- 使用更美观的动态技能图标 -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker,anaconda,md,nginx,ps,ubuntu&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,linux,matlab,html,css,js,git,vscode,latex,github,docker,anaconda,md,nginx,ps,ubuntu&perline=9" />
   
   <!-- 添加技能动画卡片 - 改进布局 -->
 </div>
