@@ -90,18 +90,42 @@
 <br />
 
 ## 🎨 生活灵感 (Life & Interests)
+
+## 🎨 生活灵感 (Life & Interests)
+
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">📸 <b>摄影</b><br/><small>捕捉工业纹理</small></td>
-      <td width="30"></td>
-      <td align="center">🚴 <b>骑行</b><br/><small>破风与思考</small></td>
-      <td width="30"></td>
+      <td width="40"></td>
+      <td align="center">🏗️ <b>ITX</b><br/><small>极限空间美学</small></td>
+      <td width="40"></td>
+      <td align="center">🚴 <b>骑行</b><br/><small>破风中的思考</small></td>
+    </tr>
+    <tr height="20"></tr>
+    <tr>
+      <td align="center">🏋️ <b>健身</b><br/><small>自律即是自由</small></td>
+      <td width="40"></td>
+      <td align="center">🐈 <b>撸猫</b><br/><small>碳基生物疗愈</small></td>
+      <td width="40"></td>
       <td align="center">🎵 <b>音乐</b><br/><small>逻辑的共鸣</small></td>
-      <td width="30"></td>
-      <td align="center">🏗️ <b>ITX</b><br/><small>空间美学</small></td>
     </tr>
   </table>
+
+  <p align="center" style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Mon-Chest-D32F2F?style=flat-square" />
+    <img src="https://img.shields.io/badge/Tue-Shoulder-F57C00?style=flat-square" />
+    <img src="https://img.shields.io/badge/Wed-Back-1976D2?style=flat-square" />
+    <img src="https://img.shields.io/badge/Thu-Arms-7B1FA2?style=flat-square" />
+    <img src="https://img.shields.io/badge/Fri-Legs_%26_Abs-388E3C?style=flat-square" />
+  </p>
 </div>
+
+<td align="center">
+  <a href="./942035114-2064762205.suf.jpg">
+  🐈 <b>撸猫</b><br/>
+  <img src="https://img.shields.io/badge/Status-Purring-ff69b4?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/Energy-100%25-brightgreen?style=plastic" />
+</td>
 
 <br />
