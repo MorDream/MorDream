@@ -1,9 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glass&color=auto&height=200&section=header&text=MorDream%20System&fontSize=70&animation=twinkling&fontColor=ffffff" width="100%" />
 
   <p align="center">
     <b>机器人算法 | 强化学习 | 深度学习 | 硬件极客</b>
   </p>
+  <div>
+  <a href="https://x.com/MNetflex21939"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+  <a href="https://space.bilibili.com/81380371/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <!-- visitor -->
+  <img src="https://komarev.com/ghpvc/?username=MorDream&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <!-- wakatime -->
+  <a href="https://wakatime.com/@MorDream"><img src="https://wakatime.com/badge/user/9f286187-7b92-44ef-bbfa-46acd3210eb6.svg" /></a>
+</div>
 </div>
 
 ---
@@ -14,6 +21,33 @@
 </div>
 
 <br />
+
+<div align="center">
+  <!-- 使用更美观的动态技能图标 -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker,anaconda,md,nginx,ps,ubuntu&perline=9" />
+  
+  <!-- 添加技能动画卡片 - 改进布局 -->
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  社区贡献
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
+</h2>
+
+<!-- 统一卡片大小并调整比例 - 优化显示效果 -->
+<!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
+<div align="center">
+<!-- 添加动态数据卡片 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorDream&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MorDream&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MorDream&theme=radical" width="33%" />
+
+
 
 ## 🛰 个人历程 (The Journey)
 <div align="center">
@@ -62,10 +96,3 @@
 </div>
 
 <br />
-
-## 📊 实时数据 (System Metrics)
-<div align="center">
-  <img src="https://metrics.lecoq.io/MorDream?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FShanghai" width="100%" />
-</div>
-
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/utils/divider.svg?type=waves&color=00E5FF&height=50" width="100%" />
