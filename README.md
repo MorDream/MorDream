@@ -66,10 +66,6 @@
       <td><b>上海机器人产业技术研究院 (SRIRI)</b><br/>强化学习实习生 · 四足机器人 Go2 运动控制优化</td>
     </tr>
     <tr>
-      <td width="20%" align="center"><b>2024 - 2025</b></td>
-      <td><b>步兵机器人自瞄系统</b><br/>基于 ROS 与 OpenCV 的视觉感知架构开发</td>
-    </tr>
-    <tr>
       <td width="20%" align="center"><b>2022 - 2026</b></td>
       <td><b>华东理工大学 (ECUST)</b><br/>智能科学与技术 · AI 算法与硬件边界探索</td>
     </tr>
