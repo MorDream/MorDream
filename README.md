@@ -117,7 +117,7 @@
 </div>
 
 <td align="center">
-  <img src="./942035114-2064762205.suf.jpg" width="300" style="border-radius: 80px; margin-bottom: 40px;" />
+  <img src="./image/README/942035114-2064762205.suf.jpg" width="300" style="border-radius: 80px; margin-bottom: 40px;" />
   <br/>
   <a href="./942035114-2064762205.suf.jpg">🐈 <b>撸猫</b></a>
   <br/>
