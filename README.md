@@ -150,38 +150,23 @@
 ## 🎨 生活灵感 (Life & Interests)
 
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto;">
-    <div style="background-color: #f8f9fa; border-radius: 10px; padding: 20px; text-align: center;">
-      <p style="font-size: 24px; margin-bottom: 10px;">📸</p>
-      <h3 style="margin-top: 0; margin-bottom: 5px; color: #333;">摄影</h3>
-      <p style="margin: 0; font-size: 14px; color: #666;">捕捉工业纹理</p>
-    </div>
-    <div style="background-color: #f8f9fa; border-radius: 10px; padding: 20px; text-align: center;">
-      <p style="font-size: 24px; margin-bottom: 10px;">🏗️</p>
-      <h3 style="margin-top: 0; margin-bottom: 5px; color: #333;">ITX</h3>
-      <p style="margin: 0; font-size: 14px; color: #666;">极限空间美学</p>
-    </div>
-    <div style="background-color: #f8f9fa; border-radius: 10px; padding: 20px; text-align: center;">
-      <p style="font-size: 24px; margin-bottom: 10px;">🚴</p>
-      <h3 style="margin-top: 0; margin-bottom: 5px; color: #333;">骑行</h3>
-      <p style="margin: 0; font-size: 14px; color: #666;">破风中的思考</p>
-    </div>
-    <div style="background-color: #f8f9fa; border-radius: 10px; padding: 20px; text-align: center;">
-      <p style="font-size: 24px; margin-bottom: 10px;">🏋️</p>
-      <h3 style="margin-top: 0; margin-bottom: 5px; color: #333;">健身</h3>
-      <p style="margin: 0; font-size: 14px; color: #666;">自律即是自由</p>
-    </div>
-    <div style="background-color: #f8f9fa; border-radius: 10px; padding: 20px; text-align: center;">
-      <p style="font-size: 24px; margin-bottom: 10px;">🐈</p>
-      <h3 style="margin-top: 0; margin-bottom: 5px; color: #333;">撸猫</h3>
-      <p style="margin: 0; font-size: 14px; color: #666;">碳基生物疗愈</p>
-    </div>
-    <div style="background-color: #f8f9fa; border-radius: 10px; padding: 20px; text-align: center;">
-      <p style="font-size: 24px; margin-bottom: 10px;">🎵</p>
-      <h3 style="margin-top: 0; margin-bottom: 5px; color: #333;">音乐</h3>
-      <p style="margin: 0; font-size: 14px; color: #666;">逻辑的共鸣</p>
-    </div>
-  </div>
+  <table border="0">
+    <tr>
+      <td align="center">📸 <b>摄影</b><br/><small>捕捉工业纹理</small></td>
+      <td width="40"></td>
+      <td align="center">🏗️ <b>ITX</b><br/><small>极限空间美学</small></td>
+      <td width="40"></td>
+      <td align="center">🚴 <b>骑行</b><br/><small>破风中的思考</small></td>
+    </tr>
+    <tr height="20"></tr>
+    <tr>
+      <td align="center">🏋️ <b>健身</b><br/><small>自律即是自由</small></td>
+      <td width="40"></td>
+      <td align="center">🐈 <b>撸猫</b><br/><small>碳基生物疗愈</small></td>
+      <td width="40"></td>
+      <td align="center">🎵 <b>音乐</b><br/><small>逻辑的共鸣</small></td>
+    </tr>
+  </table>
 
   <p align="center" style="margin-top: 30px; margin-bottom: 30px;">
     <img src="https://img.shields.io/badge/Mon-Chest-D32F2F?style=flat-square" />
