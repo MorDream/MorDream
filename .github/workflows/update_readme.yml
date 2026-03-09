@@ -1,0 +1,30 @@
+name: Update Fitness Schedule
+
+on:
+  schedule:
+    # 每天北京时间 00:05 运行一次 (UTC 16:05)
+    - cron: '5 16 * * *'
+  workflow_dispatch: # 允许手动点击按钮触发测试
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/checkout@v3
+        with:
+          python-version: '3.x'
+
+      - name: Update README
+        run: python update_fitness.py
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "chore: update daily fitness highlight" || exit 0
+          git push
