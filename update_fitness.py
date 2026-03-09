@@ -24,7 +24,7 @@ def update_readme():
     plan = [
         ("Mon", "D32F2F", "Chest"), ("Tue", "F57C00", "Shoulder"),
         ("Wed", "1976D2", "Back"), ("Thu", "7B1FA2", "Arms"),
-        ("Fri", "388E3C", "Legs_%26_Abs"), ("Sat", "FFD700", "Abs"),
+        ("Fri", "388E3C", "Legs_%26_Abs"), ("Sat", "FFD700", "Rest"),
         ("Sun", "9E9E9E", "Rest")
     ]
 
