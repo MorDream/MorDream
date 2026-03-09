@@ -78,7 +78,6 @@
 </div>
 
 <br />
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
   <p style="margin-top: 20px; font-size: 14px; color: #666;">© 2026 MorDream. All rights reserved.</p>
@@ -138,7 +137,7 @@
 
 ## 🛠 技术矩阵 (Tech Stack)
 <div align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20YOLO%20%7C%20UIE-00E5FF?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20YOLO%20%7C%20CV-00E5FF?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Robotics-ROS2%20%7C%20IsaacGym-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Infrastructure-NAS%20%7C%20Docker%20%7C%20Linux-B71C1C?style=for-the-badge&logo=synology&logoColor=white" />
@@ -169,11 +168,13 @@
   </table>
 
   <p align="center" style="margin-top: 30px; margin-bottom: 30px;">
-    <img src="https://img.shields.io/badge/Mon-Chest-D32F2F?style=flat-square" />
-    <img src="https://img.shields.io/badge/Tue-Shoulder-F57C00?style=flat-square" />
-    <img src="https://img.shields.io/badge/Wed-Back-1976D2?style=flat-square" />
-    <img src="https://img.shields.io/badge/Thu-Arms-7B1FA2?style=flat-square" />
-    <img src="https://img.shields.io/badge/Fri-Legs_%26_Abs-388E3C?style=flat-square" />
+      <img src="https://img.shields.io/badge/Mon-Chest-D32F2F?style=flat-square" />
+      <img src="https://img.shields.io/badge/Tue-Shoulder-F57C00?style=flat-square" />
+      <img src="https://img.shields.io/badge/Wed-Back-1976D2?style=flat-square" />
+      <img src="https://img.shields.io/badge/Thu-Arms-7B1FA2?style=flat-square" />
+      <img src="https://img.shields.io/badge/Fri-Legs_%26_Abs-388E3C?style=flat-square" />
+      <img src="https://img.shields.io/badge/Sat-Rest-FFD700?style=flat-square" />
+      <img src="https://img.shields.io/badge/Sun-Rest-9E9E9E?style=flat-square" />
   </p>
 
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 20px;">
