@@ -11,8 +11,8 @@ def update_readme():
         content = f.read()
 
     # 2. 锚点定义 (必须与 README 中的注释完全一致)
-    start_marker = ""
-    end_marker = ""
+    start_marker = "<h4>健身计划</h4>"
+    end_marker = "<h4>end</h4>"
 
     if start_marker not in content or end_marker not in content:
         print(f"❌ 错误：在 README 中找不到指定的锚点！")
