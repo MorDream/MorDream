@@ -37,8 +37,8 @@
       <img src="https://img.shields.io/badge/Tue-Shoulder-F57C00?style=flat-square" />
       <img src="https://img.shields.io/badge/Wed-Back-1976D2?style=flat-square" />
       <img src="https://img.shields.io/badge/Thu-Arms-7B1FA2?style=flat-square" />
-      <img src="https://img.shields.io/badge/🔥_Fri-Legs_%26_Abs-388E3C?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Sat-Abs-FFD700?style=flat-square" />
+      <img src="https://img.shields.io/badge/Fri-Legs_%26_Abs-388E3C?style=flat-square" />
+      <img src="https://img.shields.io/badge/🔥_Sat-Abs-FFD700?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Sun-Rest-9E9E9E?style=flat-square" />
   </p>
 <h4>end</h4>
