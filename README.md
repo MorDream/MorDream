@@ -34,8 +34,8 @@
   <h4>健身计划</h4>
   <p align="center" style="margin-top: 30px; margin-bottom: 30px;">
       <img src="https://img.shields.io/badge/Mon-Chest-D32F2F?style=flat-square" />
-      <img src="https://img.shields.io/badge/🔥_Tue-Shoulder-F57C00?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Wed-Back-1976D2?style=flat-square" />
+      <img src="https://img.shields.io/badge/Tue-Shoulder-F57C00?style=flat-square" />
+      <img src="https://img.shields.io/badge/🔥_Wed-Back-1976D2?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Thu-Arms-7B1FA2?style=flat-square" />
       <img src="https://img.shields.io/badge/Fri-Legs_%26_Abs-388E3C?style=flat-square" />
       <img src="https://img.shields.io/badge/Sat-Abs-FFD700?style=flat-square" />
