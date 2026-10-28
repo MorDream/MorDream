@@ -130,6 +130,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorDream&theme=radical" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MorDream&theme=radical" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MorDream&theme=radical" width="33%" />
+</div>
 
 
 
@@ -156,6 +157,70 @@
   <br/>
   <img src="https://img.shields.io/badge/Infrastructure-NAS%20%7C%20Docker%20%7C%20Linux-B71C1C?style=for-the-badge&logo=synology&logoColor=white" />
   <img src="https://img.shields.io/badge/Languages-C++%20%7C%20Python-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
+
+<br />
+
+## 🤖 AI Agent 工作流 (Agentic Workflow)
+
+<div align="center">
+  <p style="max-width: 820px; margin: 0 auto; line-height: 1.8;">
+    <i>把 AI Agent 当作「结对工程师」，而不是代码补全器。</i><br/>
+    习惯先让 Agent 读仓库、拆任务、跑测试，再看它产出的 diff ——
+    在机器人算法与强化学习项目里，它替我接走了环境踩坑、实验脚本编排和文档同步这些体力活，
+    我负责定义问题、审阅结果与最终判断。
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <table border="0" width="95%">
+    <tr>
+      <td align="center" width="25%">🧭 <b>规划</b><br/><sub>需求拆解 · 方案对比<br/>上下文调研</sub></td>
+      <td align="center" width="25%">⚙️ <b>编码</b><br/><sub>多文件重构 · 脚本生成<br/>跨语言迁移</sub></td>
+      <td align="center" width="25%">🧪 <b>验证</b><br/><sub>跑单测 · 复现报错<br/>日志归因</sub></td>
+      <td align="center" width="25%">🚀 <b>交付</b><br/><sub>提交规范 · 文档同步<br/>实验归档</sub></td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/WorkBuddy-6C5CE7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-1F6FEB?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</div>
+
+<br />
+
+<div align="center">
+  <table border="0" width="85%">
+    <tr>
+      <td align="center" width="50%" height="80">
+        <b>🪄 上下文优先</b><br/>
+        <sub>给足背景与约束，<br/>而不是丢一句需求就等结果</sub>
+      </td>
+      <td align="center" width="50%">
+        <b>🔍 可验证优先</b><br/>
+        <sub>让 Agent 自己跑测试，<br/>用输出说话而不是用自信说话</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" height="80">
+        <b>🧩 小步提交</b><br/>
+        <sub>每步都可回滚，<br/>拒绝不可控的大块 diff</sub>
+      </td>
+      <td align="center">
+        <b>🧠 人类兜底</b><br/>
+        <sub>架构决策与最终 Review<br/>始终由人把关</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
