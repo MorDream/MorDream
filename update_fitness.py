@@ -10,9 +10,10 @@ def update_readme():
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
-    # 2. 锚点定义 (必须与 README 中的注释完全一致)
-    start_marker = "<h4>健身计划</h4>"
-    end_marker = "<h4>end</h4>"
+    # 2. 锚点定义 (必须与 README 中的 HTML 注释完全一致)
+    # 用注释做锚点: 渲染时不可见, 也不会在页面上留下 "end" 这样的多余标题
+    start_marker = "<!-- FITNESS:START -->"
+    end_marker = "<!-- FITNESS:END -->"
 
     if start_marker not in content or end_marker not in content:
         print(f"❌ 错误：在 README 中找不到指定的锚点！")

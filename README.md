@@ -1,16 +1,17 @@
 <div align="center">
 
-  <p align="center">
-    <b>机器人算法 | 强化学习 | 深度学习 | 硬件极客</b>
-  </p>
-  <div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=MorDream&fontSize=68&fontColor=ffffff&fontAlignY=42" width="100%" />
+
+<p align="center">
+  <b>机器人运动控制 | 强化学习 | 深度学习 | 硬件极客</b>
+</p>
+<p>
   <a href="https://x.com/MNetflex21939"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
   <a href="https://space.bilibili.com/81380371/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-  <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=MorDream&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  <!-- wakatime -->
   <a href="https://wakatime.com/@MorDream"><img src="https://wakatime.com/badge/user/9f286187-7b92-44ef-bbfa-46acd3210eb6.svg" /></a>
-</div>
+</p>
+
 </div>
 
 ---
@@ -18,148 +19,151 @@
 ## 💻 个人介绍 (About Me)
 
 <div align="center">
-  <p style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
-    我是一名专注于机器人算法、强化学习和深度学习的开发者，目前在上海机器人产业技术研究院担任强化学习实习生，
-    致力于四足机器人 Go2 的运动控制优化。我热爱探索 AI 算法与硬件的边界，
-    并在华东理工大学人工智能专业学习，预计 2026 年毕业。
+
+  <p style="font-size: 16px; line-height: 1.7; max-width: 800px; margin: 0 auto;">
+    我关注<b>让算法真正动起来</b>：从 IsaacGym 里的策略训练，到 MuJoCo 的仿真验证，再到真机上的关节指令。
+    目前在<b>上海机器人产业技术研究院</b>做强化学习实习，负责四足机器人 Go2 的运动控制优化；
+    同时在<b>华东理工大学</b>读人工智能，2026 年毕业。
   </p>
-  <p style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: 20px auto 0;">
-    我的技术栈涵盖深度学习（PyTorch、YOLO、CV）、机器人技术（ROS2、IsaacGym）、
-    基础设施（NAS、Docker、Linux）以及编程语言（C++、Python）。
-    我热衷于将理论知识应用到实际项目中，不断挑战技术边界。
+
+  <p style="margin-top: 18px;">
+    <img src="https://img.shields.io/badge/Base-上海-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/ECUST-人工智能-1E3A8A?style=flat-square" />
+    <img src="https://img.shields.io/badge/SRIRI-强化学习实习-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   </p>
+
 </div>
 
-<div>
-  <h4>健身计划</h4>
-  <p align="center" style="margin-top: 30px; margin-bottom: 30px;">
-      <img src="https://img.shields.io/badge/Mon-Chest-D32F2F?style=flat-square" />
-      <img src="https://img.shields.io/badge/Tue-Shoulder-F57C00?style=flat-square" />
-      <img src="https://img.shields.io/badge/🔥_Wed-Back-1976D2?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Thu-Arms-7B1FA2?style=flat-square" />
-      <img src="https://img.shields.io/badge/Fri-Legs_%26_Abs-388E3C?style=flat-square" />
-      <img src="https://img.shields.io/badge/Sat-Abs-FFD700?style=flat-square" />
-      <img src="https://img.shields.io/badge/Sun-Rest-9E9E9E?style=flat-square" />
-  </p>
-<h4>end</h4>
-</div>
+---
 
-## 🐍 活跃度矩阵 (Contribution Snake)
+## 🛠 技术矩阵 (Tech Stack)
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MorDream/MorDream/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+
+| 领域 | 技术栈 |
+| :--- | :--- |
+| 🤖 **机器人 / 仿真** | ROS2 · IsaacGym · IsaacLab · MuJoCo · legged_gym · rsl_rl · sim2sim / sim2real |
+| 🧠 **强化学习 / 深度学习** | PPO · DQN · 奖励工程 · Diffusion (DDPM) · ViT · MoCo v2 · 对比学习 |
+| 👁 **视觉 / 感知** | OpenCV 模板匹配 · ONNX Runtime · 多尺度特征融合 · 无监督异常检测 |
+| 🏗 **工程 / 基础设施** | Docker · Linux · NAS · Flask · Git · ADB / scrcpy · Intel Arc XPU |
+| 💻 **编程语言** | Python · C++ · MATLAB |
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,linux,matlab,docker,flask,git,github,vscode,latex,md,bash,nginx,ubuntu,anaconda,ps&perline=9" />
+
+</div>
+
+---
+
+## 🚀 项目精选 (Featured Projects)
+
+<div align="center">
+  <sub>按投入深度排序 · 全部开源在我的 <a href="https://github.com/MorDream?tab=repositories">仓库列表</a></sub>
 </div>
 
 <br />
 
-## 📞 联系我 (Contact Me)
+### ① [sim2sim](https://github.com/MorDream/sim2sim) · 四足机器人 Parkour 策略的仿真迁移
 
-<div align="center">
-  <p style="margin-bottom: 20px;">如果您对我的项目感兴趣，或者有任何合作机会，欢迎联系我！</p>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <a href="https://x.com/MNetflex21939" target="_blank" style="text-decoration: none; color: #1DA1F2;">
-      <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-      </div>
-    </a>
-    <a href="https://space.bilibili.com/81380371/" target="_blank" style="text-decoration: none; color: #FF69B4;">
-      <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="https://img.shields.io/badge/Bilibili-FF69B4?style=flat&logo=bilibili&logoColor=white" />
-      </div>
-    </a>
-    <a href="https://wakatime.com/@MorDream" target="_blank" style="text-decoration: none; color: #000000;">
-      <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white" />
-      </div>
-    </a>
-  </div>
-</div>
+<img src="https://img.shields.io/github/stars/MorDream/sim2sim?style=flat-square&label=star&color=f5c542" />
+<img src="https://img.shields.io/github/languages/top/MorDream/sim2sim?style=flat-square" />
+<img src="https://img.shields.io/badge/IsaacGym-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/MuJoCo-4B8BBE?style=flat-square" />
+<img src="https://img.shields.io/badge/sim2sim-✓-brightgreen?style=flat-square" />
+
+策略在训练环境里跑通只是及格线，能在另一套物理引擎里站着才是本事。
+
+- **打通 IsaacGym → MuJoCo 迁移链路**：策略经 JIT 导出为 `.pt`，改一行 `policy_path` 即可在 MuJoCo 复现，把 sim2sim 从一次性的调试动作变成可复用流程。
+- **固化两套 Go2 基线**：平地任务（`go2_rough`）与野外多技能任务（`go2_field`，11 skills），配置分文件管理，便于对照实验。
+- **保留实机链路**：仓库内含 `onboard_codes/` 上机部署代码与深度相机 pipeline 文档，覆盖到真机之前的最后一环。
+
+<sub>📦 Python · PyTorch · legged_gym · rsl_rl · IsaacGym · MuJoCo</sub>
 
 <br />
 
-## 🎯 目标 (Goals)
+### ② [under_graduate](https://github.com/MorDream/under_graduate) · 半导体晶圆无监督缺陷检测（毕业设计）
 
-<div align="center">
-  <div style="background-color: #f8f9fa; border-radius: 10px; padding: 20px; max-width: 800px; margin: 0 auto;">
-    <h3 style="margin-top: 0; color: #333;">未来规划</h3>
-    <ul style="text-align: left; line-height: 1.6; padding-left: 20px;">
-      <li>深入研究强化学习在机器人控制中的应用</li>
-      <li>开发更智能、更稳定的四足机器人运动算法</li>
-      <li>探索AI与硬件结合的更多可能性</li>
-      <li>参与开源项目，贡献自己的技术力量</li>
-      <li>准备复试，提升自己</li>
-    </ul>
-  </div>
-</div>
+<img src="https://img.shields.io/badge/ViT-FF9D00?style=flat-square" />
+<img src="https://img.shields.io/badge/MoCo_v2-5C3EE8?style=flat-square" />
+<img src="https://img.shields.io/badge/Anomaly_Detection-✓-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/消融实验-进行中-yellow?style=flat-square" />
+
+工业质检的痛点是「良品多、坏品少且形态未知」——没有足够异常样本，就只能做无监督。
+
+- **自监督主干**：ViT 编码器 + MoCo v2 对比学习，只用正常样本训练；检测端用 PCA + Ledoit-Wolf 收缩协方差（参考 CFA, CVPR 2023）做马氏距离度量。
+- **面向晶圆的改造**：多尺度特征融合解决微小缺陷被深层特征淹没的问题；定制数据增强保留晶圆图的物理语义，而非直接套用自然图像增强。
+- **累积式消融设计**：Exp0 基线 → 多尺度 → CutPaste → 超球面约束 → SimpleNet 特征生成 → PatchCore 风格记忆库，逐模块验证独立增益（基线 AUROC 0.675，其余实验运行中）。
+- **工程可复现**：一条命令切换 wafer / MVTec AD 数据集，自动适配 Intel Arc B580 (XPU) / CUDA / CPU 三档设备。
+
+<sub>📦 PyTorch · ViT · 对比学习 · scikit-learn · OpenCV</sub>
 
 <br />
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
-  <p style="margin-top: 20px; font-size: 14px; color: #666;">© 2026 MorDream. All rights reserved.</p>
-</div>
 
-<div align="center">
-  <!-- 使用更美观的动态技能图标 -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,linux,matlab,html,css,js,git,vscode,latex,github,docker,anaconda,md,nginx,ps,ubuntu&perline=9" />
-  
-  <!-- 添加技能动画卡片 - 改进布局 -->
-</div>
+### ③ [dqn_for_wzry](https://github.com/MorDream/dqn_for_wzry) · WZRY_AI Enhanced：DQN + CV 全自动闭环
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
-</div>
+<img src="https://img.shields.io/github/languages/top/MorDream/dqn_for_wzry?style=flat-square" />
+<img src="https://img.shields.io/badge/DQN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 
-## 📈 活跃度 (Contributions)
+把「打一局游戏」拆成感知 → 决策 → 执行三段，然后全部自动化。
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MorDream&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
-</div>
+- **全流程闭环**：OpenCV 模板匹配识别活动弹窗、大厅入口、匹配确认与结算界面，配合 ADB 指令完成「启动 → 匹配 → 对局 → 结算」的无人循环。
+- **学习侧实现**：DQN 智能体 + 经验回放 + 目标网络，scrcpy 实时截屏作为观测，ONNX Runtime 做前向推理加速。
+- **容错处理**：针对网络波动重连、体力不足等状态加了检测与恢复逻辑，长跑不轻易卡死。
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  社区贡献
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-</h2>
+<sub>📦 Python · PyTorch · OpenCV · ONNX · ADB / scrcpy</sub>
 
-<!-- 统一卡片大小并调整比例 - 优化显示效果 -->
-<!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
-<div align="center">
-<!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorDream&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MorDream&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MorDream&theme=radical" width="33%" />
-</div>
+<br />
 
+### ④ [legged_robot](https://github.com/MorDream/legged_robot) · 运动控制环境的奖励工程改造
 
+<img src="https://img.shields.io/github/languages/top/MorDream/legged_robot?style=flat-square" />
+<img src="https://img.shields.io/badge/Reward_Design-✓-brightgreen?style=flat-square" />
+
+强化学习调参的时间，八成花在奖励函数上，这个仓库就是那段摸索的记录。
+
+- 在 `go2_config.py` 中增补多组奖励策略，并在 `legged_robot.py` 里完整实现对应奖励逻辑。
+- 支持 go2 / go1 / a1 / anymal_b / anymal_c / cassie 多机型环境，奖励改动可横向对比。
+- 设计参考 NP3O 的 Locomotion 方案，在步态稳定性与能耗之间做取舍。
+
+<sub>📦 Python · PyTorch · IsaacGym · legged_gym</sub>
+
+<br />
+
+### 📚 更多项目
+
+| 项目 | 一句话说明 | 技术 |
+| :--- | :--- | :--- |
+| **[py_wol](https://github.com/MorDream/py_wol)** | 局域网远程唤醒工具，Web 界面一键扫描 / 保存 / 唤醒 NAS 与 ITX 主机，已发布 Docker 镜像 | `Flask` `Docker` `UDP` |
+| **[diffusion-for-MINST](https://github.com/MorDream/diffusion-for-MINST)** | 单文件从零实现 DDPM，在 MNIST 上完成训练与采样 | `PyTorch` `Diffusion` |
+| **[hermes-pet](https://github.com/MorDream/hermes-pet)** ★2 | 把 OpenPet 桌宠接进 Hermes Agent：事件钩子、看门狗、定时巡检、WSL 路径修复 | `Shell` `Agent Skill` |
+| **[hermes-nailong-skin](https://github.com/MorDream/hermes-nailong-skin)** ★3 | Hermes Agent 主题皮肤 + 角色扮演提示词工程，写进 agent memory 开机自加载 | `YAML` `Prompt` |
+| **[agent-learning-plan](https://github.com/MorDream/agent-learning-plan----hello-agent)** | 跟着《Hello-Agents》系统啃 Agent 原理，并沉淀自己的实现代码 | `Python` `LLM` |
+
+---
 
 ## 🛰 个人历程 (The Journey)
+
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td width="20%" align="center"><b>2025 - 至今</b></td>
-      <td><b>上海机器人产业技术研究院 (SRIRI)</b><br/>强化学习实习生 · 四足机器人 Go2 运动控制优化</td>
+      <td width="22%" align="center"><b>2025 - 至今</b></td>
+      <td><b>上海机器人产业技术研究院 (SRIRI)</b><br/>强化学习实习生 · 四足机器人 Go2 运动控制优化 · Parkour 策略 sim2sim 迁移</td>
     </tr>
     <tr>
-      <td width="20%" align="center"><b>2022 - 2026</b></td>
-      <td><b>华东理工大学 (ECUST)</b><br/>智能科学与技术 · AI 算法与硬件边界探索</td>
+      <td width="22%" align="center"><b>2026</b></td>
+      <td><b>毕业设计</b><br/>半导体晶圆无监督缺陷检测 · ViT + MoCo v2 · 累积式消融实验</td>
+    </tr>
+    <tr>
+      <td width="22%" align="center"><b>2022 - 2026</b></td>
+      <td><b>华东理工大学 (ECUST)</b><br/>人工智能 · 算法与硬件边界的持续探索</td>
     </tr>
   </table>
 </div>
 
-<br />
-
-## 🛠 技术矩阵 (Tech Stack)
-<div align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20YOLO%20%7C%20CV-00E5FF?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robotics-ROS2%20%7C%20IsaacGym-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Infrastructure-NAS%20%7C%20Docker%20%7C%20Linux-B71C1C?style=for-the-badge&logo=synology&logoColor=white" />
-  <img src="https://img.shields.io/badge/Languages-C++%20%7C%20Python-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div>
-
-<br />
+---
 
 ## 🤖 AI Agent 工作流 (Agentic Workflow)
 
@@ -225,6 +229,69 @@
 
 <br />
 
+<div align="center">
+  <sub>不止于用 —— 也动手改造 Agent 本身：<a href="https://github.com/MorDream/hermes-pet">hermes-pet</a> 给它接上桌宠，<a href="https://github.com/MorDream/hermes-nailong-skin">hermes-nailong-skin</a> 给它换上皮囊。</sub>
+</div>
+
+---
+
+## 📈 活跃度 (Contributions)
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorDream&theme=radical" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MorDream&theme=radical" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MorDream&theme=radical" width="33%" />
+
+  <br /><br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MorDream&theme=tokyonight&hide_border=true" width="100%" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+</div>
+
+## 🐍 活跃度矩阵 (Contribution Snake)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MorDream/MorDream/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+</div>
+
+## 🎯 目标 (Goals)
+
+<div align="center">
+  <table border="0" width="85%">
+    <tr>
+      <td align="center" width="50%" height="90">
+        <b>🎯 近期</b><br/>
+        <sub>把晶圆检测的消融实验跑完，<br/>补上从 0.675 到可用的那一段</sub>
+      </td>
+      <td align="center" width="50%">
+        <b>🧭 长期</b><br/>
+        <sub>探索强化学习与硬件的结合点，<br/>做能在物理世界跑通的策略</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" height="90">
+        <b>📖 持续</b><br/>
+        <sub>系统补齐 Agent 与具身智能的理论，<br/>不止停留在调包</sub>
+      </td>
+      <td align="center">
+        <b>🌱 开源</b><br/>
+        <sub>把踩过的坑写成文档，<br/>让下一个人少走一遍</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🎨 生活灵感 (Life & Interests)
 
 <div align="center">
@@ -245,25 +312,47 @@
       <td align="center">🎵 <b>音乐</b><br/><small>逻辑的共鸣</small></td>
     </tr>
   </table>
+</div>
 
+<h4>健身计划</h4>
+<!-- FITNESS:START -->
   <p align="center" style="margin-top: 30px; margin-bottom: 30px;">
       <img src="https://img.shields.io/badge/Mon-Chest-D32F2F?style=flat-square" />
       <img src="https://img.shields.io/badge/Tue-Shoulder-F57C00?style=flat-square" />
-      <img src="https://img.shields.io/badge/Wed-Back-1976D2?style=flat-square" />
+      <img src="https://img.shields.io/badge/🔥_Wed-Back-1976D2?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Thu-Arms-7B1FA2?style=flat-square" />
       <img src="https://img.shields.io/badge/Fri-Legs_%26_Abs-388E3C?style=flat-square" />
       <img src="https://img.shields.io/badge/Sat-Abs-FFD700?style=flat-square" />
       <img src="https://img.shields.io/badge/Sun-Rest-9E9E9E?style=flat-square" />
   </p>
+<!-- FITNESS:END -->
 
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 20px;">
-    <img src="./image/README/942035114-2064762205.suf.jpg" width="300" style="border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+<div align="center">
+  <div style="margin-top: 20px;">
+    <img src="./image/README/942035114-2064762205.suf.jpg" width="300" style="border-radius: 10px; margin-bottom: 12px;" />
     <p style="margin-bottom: 10px;"><b>🐈 撸猫时刻</b></p>
-    <div style="display: flex; gap: 10px;">
-      <img src="https://img.shields.io/badge/Status-Purring-ff69b4?style=flat-square" />
-      <img src="https://img.shields.io/badge/Energy-100%25-brightgreen?style=plastic" />
-    </div>
+    <img src="https://img.shields.io/badge/Status-Purring-ff69b4?style=flat-square" />
+    <img src="https://img.shields.io/badge/Energy-100%25-brightgreen?style=plastic" />
   </div>
 </div>
 
+---
+
+## 📞 联系我 (Contact Me)
+
+<div align="center">
+  <p>对机器人、强化学习，或者任何「让代码动起来」的事感兴趣，都欢迎聊聊。</p>
+  <p>
+    <a href="https://x.com/MNetflex21939" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>&emsp;
+    <a href="https://space.bilibili.com/81380371/" target="_blank"><img src="https://img.shields.io/badge/Bilibili-FF69B4?style=flat&logo=bilibili&logoColor=white" /></a>&emsp;
+    <a href="https://wakatime.com/@MorDream" target="_blank"><img src="https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white" /></a>&emsp;
+    <a href="https://github.com/MorDream" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  </p>
+</div>
+
 <br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+  <p style="margin-top: 16px; font-size: 14px; color: #666;">© 2026 MorDream · Keep the policy running.</p>
+</div>
